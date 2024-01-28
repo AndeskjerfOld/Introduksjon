@@ -4,16 +4,16 @@ const SECTIONS = [
   {
     title: 'Hvem er jeg?',
     content:
-      'Jeg heter Andreas og er 26 år gammel. Alltid vært over middels gira på alt med data å gjøre. Samboeren min er en Maine Coon som heter Athene!',
+      'Jeg heter Andreas og er 26 år gammel. Samboeren min er en maine coon som heter Athene!',
     bulletPoints: [],
     image: '',
   },
   {
-    title: 'Hobbier?',
+    title: 'Interesser?',
     content:
-      'Jeg er altfor glad i data, men liker også å holde på med litt andre ting, som...',
+      'Data er greia mi. Liker det meste jeg kan gjøre med de, sette opp og drifte servere, konfigurere egen Linux maskin, drifte lokale sky tjenester, osv...' ,
     bulletPoints: [
-      'Katter (er dette en hobby?)',
+      'Katter',
       'Linux',
       'Trening',
       'Programmering',
